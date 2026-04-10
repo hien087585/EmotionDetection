@@ -1,12 +1,12 @@
 # Emotion Detector - Watson NLP Project
 
-## 📌 Project Description
+## Project Description
 This project is an AI-based Emotion Detection web application built using the IBM Watson NLP library.  
 It analyzes text input and returns the detected emotions such as anger, disgust, fear, joy, and sadness, along with the dominant emotion.
 
 ---
 
-## 🚀 Features
+## Features
 - Emotion detection using IBM Watson NLP API  
 - Returns 5 emotions: anger, disgust, fear, joy, sadness  
 - Identifies dominant emotion  
@@ -17,7 +17,7 @@ It analyzes text input and returns the detected emotions such as anger, disgust,
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python  
 - Flask  
 - IBM Watson NLP API  
@@ -27,7 +27,7 @@ It analyzes text input and returns the detected emotions such as anger, disgust,
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 EmotionDetection/
 │
 ├── EmotionDetection/
@@ -41,7 +41,7 @@ EmotionDetection/
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 ### 1. Install dependencies
 ```bash
